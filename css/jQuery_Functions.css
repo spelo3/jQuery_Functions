@@ -1,0 +1,35 @@
+.btn-go {
+  color: #fff;
+  background-color: orange;
+  border-color: black;
+}
+
+.btn-fun {
+  color: black;
+  background-color: yellow;
+  border-color: black;
+}
+
+.btn-hello {
+  border-color: black;
+}
+
+.btn-goodbye {
+  border-color: black;
+}
+
+.btn-stop {
+  border-color: black;
+}
+
+.btn-green {
+  background-color: green;
+}
+
+body {
+  background-color: #B2C9D1;
+}
+
+.btn{
+  border-color:black;
+}
